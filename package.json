@@ -1,7 +1,7 @@
 {
   "name": "rest-shop",
   "version": "1.0.0",
-  "description": "A Node.js RESTful API Tutorial Project (Build a simple shop API)",
+  "description": "Stefan",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,8 +12,7 @@
     "restful",
     "api"
   ],
-  "author": "Maximilian Schwarzmüller",
-  "license": "ISC",
+  "author": "Stefan",
   "dependencies": {
     "axios": "^0.19.2",
     "bcrypt": "^1.0.3",
